@@ -53,7 +53,8 @@ Enhance your Anki experience with the **ChatGPT Sidebar** add-on, seamlessly int
 ## 📥 **Installation Instructions for Ubuntu**
 
 1. **Go to /home/USERNAME/.local/share/Anki2/addons21/** - remember to change "USERNAME" to your local user's name
-   - Create a folder with any name and place the __init__.py file from this repository into it.
+   - Create a folder with any name and place the Create a folder with any name and place the [`__init__.py`](https://github.com/MW13code/Anki_conversation_with_ChatGPT/blob/main/__init__.py) file from this repository into it.
+ file from this repository into it.
 
 2. **Restart Anki:**
    - After installation, restart Anki to activate the add-on.
