@@ -22,6 +22,8 @@ Enhance your Anki experience with the **ChatGPT Sidebar** add-on, seamlessly int
   - **Stylish Interface:** Clean and minimalist design ensures that the ChatGPT sidebar complements your Anki environment.
   - **Customizable Appearance:** Adjust the sidebar’s visibility and size to suit your preferences.
 
+![Preview](https://github.com/MW13code/Anki_conversation_with_ChatGPT/blob/main/chatgpt_anki.png)
+
 ---
 
 ## 🔧 **How It Works**
